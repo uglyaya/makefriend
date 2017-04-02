@@ -25,7 +25,7 @@ SECRET_KEY = '9i2&2yoc--1s793t$rvv7&+9z_7wabot*_l4tb-+2d$envas^4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
