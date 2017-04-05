@@ -103,6 +103,6 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 MONGO_CONFIG = {
-    'CONN_ADDR1': '127.0.0.1:27017',
+    'CONN_ADDR1': '127.0.0.1:27018',
     'database': 'makefriend',
 }
